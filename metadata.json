@@ -1,0 +1,6 @@
+{
+  "name": "EscSimulados - Plataforma Aberta de Simulados Brasileiros",
+  "description": "Simulados gratuitos e comentados com mais de 20 questões para ENEM, FUVEST, SARESP, Provão Paulista, OBMEP, OBA e Concursos Públicos. Cronometragem real, gabarito explicado e simulador SISU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
